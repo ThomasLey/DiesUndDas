@@ -10,9 +10,9 @@ namespace TestLibALibB
         [Test]
         public void DoCalcLibAB()
         {
-            new LibAB.CalcNumbers()
-                .Calc().Take(10)
-                .ToList().ForEach(Console.WriteLine);;
+            //new LibAB.CalcNumbers()
+            //    .Calc().Take(10)
+            //    .ToList().ForEach(Console.WriteLine);;
         }
     }
 }

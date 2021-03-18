@@ -3,6 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>WhichLib.Lib</AssemblyName>
+    <RootNamespace>LibA</RootNamespace>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>SampleSigningA.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
 </Project>

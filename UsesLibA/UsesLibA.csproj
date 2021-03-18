@@ -2,10 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>UsesLibA.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ThomasLey.WhichLib.LibA" Version="1.1.0" />
+    <PackageReference Include="ThomasLey.WhichLib.LibA" Version="1.2.0" />
   </ItemGroup>
 
 </Project>
