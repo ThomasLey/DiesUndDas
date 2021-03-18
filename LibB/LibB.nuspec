@@ -3,8 +3,8 @@
   <metadata>
     <!-- Required elements-->
     <id>ThomasLey.WhichLib.LibB</id>
-    <version>1.0.0</version>
-    <description>lib with WhichLib.Lib.dll </description>
+    <version>1.1.0</version>
+    <description>lib with WhichLib.Lib.dll. This time with same namespace.</description>
     <authors>ThomasLey</authors>
   </metadata>
 

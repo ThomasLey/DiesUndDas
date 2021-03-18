@@ -8,7 +8,7 @@ namespace UsesLibB
     {
         public IEnumerable<int> ReturnFirst10()
         {
-            return new LibB.CalcNumbers().Calc().Take(10);
+            return new LibAB.CalcNumbers().Calc().Take(10);
         }
     }
 }

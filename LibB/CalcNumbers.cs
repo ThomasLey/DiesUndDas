@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace LibB
+namespace LibAB
 {
     public class CalcNumbers
     {

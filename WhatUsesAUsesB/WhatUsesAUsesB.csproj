@@ -7,8 +7,8 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.1" />
     <PackageReference Include="NUnit" Version="3.13.1" />
-    <PackageReference Include="ThomasLey.WhichLib.LibA" Version="1.0.0" />
-    <PackageReference Include="ThomasLey.WhichLib.LibB" Version="1.0.0" />
+    <PackageReference Include="ThomasLey.WhichLib.LibA" Version="1.1.0" />
+    <PackageReference Include="ThomasLey.WhichLib.LibB" Version="1.1.0" />
   </ItemGroup>
 
   <ItemGroup>
