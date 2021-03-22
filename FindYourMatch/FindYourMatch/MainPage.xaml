@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FindYourMatch.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Find Your Match" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Ich" FontSize="Caption" Padding="30,10,30,10"/>
+        <Entry x:Name="SourceName" />
+        <Label Text="Du" FontSize="Caption" Padding="30,10,30,10"/>
+        <Entry x:Name="TargetName" />
+        <Button Text="Berechnen" Clicked="Button_OnClicked" />
+        <Label x:Name="Result" Text="[Ergebnis]" FontSize="16" Padding="30,0,30,0"/>
+    </StackLayout>
+
+</ContentPage>

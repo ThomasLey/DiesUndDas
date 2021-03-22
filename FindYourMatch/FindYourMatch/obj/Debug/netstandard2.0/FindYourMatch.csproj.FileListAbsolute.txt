@@ -1,0 +1,14 @@
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\bin\Debug\netstandard2.0\FindYourMatch.deps.json
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\bin\Debug\netstandard2.0\FindYourMatch.dll
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\bin\Debug\netstandard2.0\ref\FindYourMatch.dll
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\bin\Debug\netstandard2.0\FindYourMatch.pdb
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\obj\Debug\netstandard2.0\FindYourMatch.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\obj\Debug\netstandard2.0\FindYourMatch.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\obj\Debug\netstandard2.0\FindYourMatch.AssemblyInfo.cs
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\obj\Debug\netstandard2.0\FindYourMatch.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\obj\Debug\netstandard2.0\FindYourMatch.dll
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\obj\Debug\netstandard2.0\ref\FindYourMatch.dll
+C:\Users\thoma\source\repos\FindYourMatch\FindYourMatch\FindYourMatch\obj\Debug\netstandard2.0\FindYourMatch.pdb
